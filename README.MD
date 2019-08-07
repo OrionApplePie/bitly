@@ -14,7 +14,7 @@
     например, если токен имеет вид "yb6yhb8x7vr9e49t8vsodn9emdekf89e008n",
     то нужно прописать в файле строку вида (без ковычек):
     ```
-    TOKEN=yb6yhb8x7vr9e49t8vsodn9emdekf89e008n
+    BITLY_TOKEN=yb6yhb8x7vr9e49t8vsodn9emdekf89e008n
     ```
 
 Чтобы сгенерированть токен нужно авторизироваться в bitly.com, перейти в settings --> [ваш логин] --> Generic Access Token.
